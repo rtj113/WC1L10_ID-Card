@@ -1,0 +1,40 @@
+body {
+    background: #61a4bb;
+    background-color: #61a4bb;
+    font-family: 'Lato', sans-serif;
+}
+.bg-black {
+    background: #000;
+    background-color: #000;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/spiration-dark.png);
+}
+.form-container {
+    background: #cccccc;
+    background-color: #cccccc;
+    border-radius: 5px;
+    box-shadow: #000;
+}
+#idCard {
+    margin:0 auto;
+    border-radius: 10px;
+    background: #aaaaaa;
+    background-color: #aaaaaa;
+}
+img {  
+    width: 90px;
+    height: 90px;
+    float: left;
+}
+#postFullName {
+    font-size: 32px;
+    margin: 0 auto;
+}
+#idCard {
+    border: 5px solid black;
+    height: 14em;
+    width: 25em;
+}
+#idCardForm {
+    width:100%;
+    max-width: 25em;
+}
