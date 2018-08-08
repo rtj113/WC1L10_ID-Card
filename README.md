@@ -1,0 +1,2 @@
+# WC1L10_ID-Card
+This is a form that creates an ID Card based on user input. The data is passed through a function that prints the information on the card and parses any numbers and outputs the value as opposed to the character. The values are inserted into an array and then output in the proper paragraph tag. There is also a for loop that checks the value against the set parameters before it is passed through. Ultimately all data makes it through.
